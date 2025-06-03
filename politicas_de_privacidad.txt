@@ -1,0 +1,107 @@
+=======================================================================
+                    POLÍTICA DE PRIVACIDAD
+                      EXTENSIÓN CFDI SAT
+                        Versión 2025
+=======================================================================
+
+Última actualización: 15 de Marzo de 2024
+Autor: Betito Aragon
+Contacto: contacto.beto.aragon@gmail.com
+
+=======================================================================
+
+                         ÍNDICE
+-----------------------------------------------------------------------
+1. Introducción
+2. Información que Recopilamos
+3. Uso de la Información
+4. Almacenamiento y Seguridad
+5. Derechos del Usuario
+6. Cambios en la Política
+7. Contacto
+=======================================================================
+
+1. INTRODUCCIÓN
+-----------------------------------------------------------------------
+La extensión CFDI SAT ("la Extensión") es una herramienta profesional 
+diseñada para facilitar la descarga y análisis de facturas electrónicas 
+(CFDI) del Sistema de Administración Tributaria (SAT) de México. Esta 
+política de privacidad describe nuestro compromiso con la protección de 
+sus datos y la transparencia en nuestras operaciones.
+
+2. INFORMACIÓN QUE RECOPILAMOS
+-----------------------------------------------------------------------
+2.1 Información NO Recopilada:
+    ✧ Datos personales de identificación
+    ✧ Información financiera o bancaria
+    ✧ Datos de salud
+    ✧ Credenciales de acceso
+    ✧ Historial de navegación
+    ✧ Ubicación geográfica
+    ✧ Comunicaciones personales
+
+2.2 Acceso Temporal Durante el Uso:
+    ✧ Documentos CFDI (XML/PDF) seleccionados para descarga
+    ✧ Información visible en el portal del SAT durante la sesión activa
+    ✧ Datos necesarios para la funcionalidad básica de la extensión
+
+3. USO DE LA INFORMACIÓN
+-----------------------------------------------------------------------
+3.1 Procesamiento Local:
+    ✧ Todo el procesamiento se realiza localmente en su dispositivo
+    ✧ No se envía ninguna información a servidores externos
+    ✧ Los documentos CFDI se procesan únicamente en memoria temporal
+
+3.2 Conexiones Externas:
+    ✧ Portal oficial del SAT (portalcfdi.facturaelectronica.sat.gob.mx)
+    ✧ CDN de bibliotecas UI (cdnjs.cloudflare.com) para estilos
+    ✧ No se establecen otras conexiones externas
+
+4. ALMACENAMIENTO Y SEGURIDAD
+-----------------------------------------------------------------------
+4.1 Política de No Almacenamiento:
+    ✧ No se almacena ninguna información de manera permanente
+    ✧ Los datos se mantienen solo en memoria temporal durante el uso
+    ✧ Se eliminan automáticamente al cerrar la sesión
+
+4.2 Medidas de Seguridad:
+    ✧ Conexiones HTTPS seguras
+    ✧ Procesamiento local encapsulado
+    ✧ Sin bases de datos ni almacenamiento en la nube
+    ✧ Código abierto para transparencia
+
+5. DERECHOS DEL USUARIO
+-----------------------------------------------------------------------
+Como usuario de la Extensión, usted tiene derecho a:
+    ✧ Conocer qué datos se procesan
+    ✧ Saber cómo se utilizan sus datos
+    ✧ Acceder al código fuente de la extensión
+    ✧ Solicitar información adicional
+    ✧ Reportar problemas de privacidad
+
+6. CAMBIOS EN LA POLÍTICA
+-----------------------------------------------------------------------
+Nos reservamos el derecho de actualizar esta política de privacidad para
+reflejar cambios en nuestras prácticas o por otros motivos operativos,
+legales o regulatorios. Los cambios significativos serán notificados a
+través de la página de la extensión en Chrome Web Store.
+
+7. CONTACTO
+-----------------------------------------------------------------------
+Para cualquier pregunta sobre esta política de privacidad o sobre el
+funcionamiento de la Extensión, puede contactarnos en:
+
+    ✧ Email: contacto.beto.aragon@gmail.com
+    ✧ Chrome Web Store: [CFDI SAT - Página de la Extensión]
+    ✧ Versión actual: 2025
+
+=======================================================================
+                    COMPROMISO DE PRIVACIDAD
+-----------------------------------------------------------------------
+"Nos comprometemos a mantener la privacidad y seguridad de sus datos
+fiscales, operando con total transparencia y respeto a la
+confidencialidad de su información."
+
+                        - Betito Aragon
+                    Desarrollador de CFDI SAT
+======================================================================= 
