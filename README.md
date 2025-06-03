@@ -1,57 +1,25 @@
-CFDI SAT - Analizador Profesional de Facturas Electrónicas
+# CFDI SAT - Extensión para Chrome
 
-¿Qué es CFDI SAT?
-Una herramienta profesional diseñada específicamente para contadores, administradores y profesionales fiscales en México que necesitan gestionar eficientemente sus facturas electrónicas CFDI.
+Herramienta profesional para la descarga y análisis de facturas electrónicas (CFDI) del SAT México.
 
-Características Principales:
-✓ Descarga Masiva de XMLs
-- Descarga múltiples facturas CFDI directamente desde el portal del SAT
-- Organización automática por fecha y tipo de comprobante
-- Compatibilidad con CFDI 4.0 y versiones anteriores
+## Acceso a la Página de Privacidad
 
-✓ Análisis Inteligente
-- Visualización inmediata de conceptos e impuestos
-- Cálculo automático de totales e impuestos trasladados
-- Interfaz moderna y profesional con diseño responsivo
+Puedes acceder a nuestra política de privacidad en:
+https://betoaragoncfid.github.io/CFDISATBetoAragon/privacy_policy.html
 
-✓ Funcionalidades Avanzadas
-- Drag & Drop para carga de archivos XML
-- Procesamiento local (sin envío de datos a servidores externos)
-- Exportación de resultados
-- Análisis detallado de conceptos y traslados
+## Desarrollador
 
-✓ Seguridad y Privacidad
-- Procesamiento 100% local en su navegador
-- No almacena información sensible
-- No requiere instalación de software adicional
+- **Nombre:** Betito Aragon
+- **Contacto:** contacto.beto.aragon@gmail.com
+- **Versión:** 2025
 
-Ideal para:
-• Contadores y Despachos Contables
-• Administradores Financieros
-• Departamentos de Contabilidad
-• Profesionales Fiscales
-• Empresas de cualquier tamaño
+## Características
 
-Beneficios:
-• Ahorro significativo de tiempo en el procesamiento de facturas
-• Reducción de errores en el análisis fiscal
-• Interfaz intuitiva y fácil de usar
-• Actualización constante conforme a las disposiciones del SAT
-• Soporte técnico disponible
+- Descarga masiva de XMLs y PDFs
+- Análisis visual de facturas
+- Procesamiento local y seguro
+- Interfaz moderna y profesional
 
-Versión 2025
-- Diseño moderno con Tailwind CSS
-- Animaciones fluidas
-- Compatible con las últimas actualizaciones del SAT
-- Optimizado para Chrome
+## Licencia
 
-¿Necesitas ayuda?
-Contacta directamente al desarrollador: contacto.beto.aragon@gmail.com
-
-Notas importantes:
-- Extensión gratuita y de código abierto
-- Actualizaciones regulares
-- Compatible con Windows, Mac y Linux
-- Requiere Chrome versión 88 o superior
-
-Esta extensión es una herramienta indispensable para cualquier profesional que necesite gestionar eficientemente facturas CFDI del SAT México. 
+© 2024-2025 CFDI SAT Extension - Todos los derechos reservados
